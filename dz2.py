@@ -4,3 +4,4 @@ def palindrom(s):
 print(palindrom(input_s))
 
 
+аоао
